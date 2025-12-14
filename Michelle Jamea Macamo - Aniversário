@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Feliz Aniversário, Michelle ❤️</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      font-family: Arial, sans-serif;
+      text-align: center;
+      color: #ffffff;
+      padding: 25px 15px;
+      box-sizing: border-box;
+    }
+    h1 {
+      font-size: 2.1em;
+      margin-bottom: 15px;
+    }
+    p {
+      font-size: 1.05em;
+      line-height: 1.6;
+      max-width: 520px;
+      margin: 0 auto 18px;
+    }
+    .card {
+      background: rgba(255,255,255,0.15);
+      border-radius: 22px;
+      padding: 25px 20px;
+      backdrop-filter: blur(6px);
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+      margin-top: 25px;
+    }
+    .photo-card {
+      background: rgba(0,0,0,0.25);
+      border-radius: 18px;
+      padding: 10px;
+    }
+    .photo-card img {
+      width: 100%;
+      border-radius: 15px;
+      object-fit: cover;
+    }
+    .verse {
+      font-style: italic;
+      font-size: 0.95em;
+      margin-top: 10px;
+      line-height: 1.5;
+    }
+    .ref {
+      display: block;
+      margin-top: 6px;
+      font-weight: bold;
+      font-size: 0.9em;
+    }
+    .prayer {
+      margin-top: 30px;
+      font-size: 1.05em;
+      line-height: 1.6;
+      font-style: italic;
+    }
+    footer {
+      margin-top: 25px;
+      font-size: 1em;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Música (pode trocar depois) -->
+  <iframe width="0" height="0"
+    src="https://www.youtube.com/embed/COQ0j1O9nSg?autoplay=1&loop=1&playlist=COQ0j1O9nSg"
+    frameborder="0"
+    allow="autoplay">
+  </iframe>
+
+  <div class="card">
+    <h1>Feliz Aniversário, Michelle Jamea Macamo 🎉❤️</h1>
+
+    <p>
+      Hoje, 22 de Dezembro, celebro a tua vida.
+      Desde <strong>11 de Outubro de 2025</strong>,
+      agradeço a Deus por cada sorriso teu
+      e pelo privilégio de caminhar contigo.
+    </p>
+
+    <!-- Galeria com versículo por foto -->
+    <div class="gallery">
+
+      <div class="photo-card">
+        <img src="foto1.jpg">
+        <div class="verse">
+          “Como és bela, minha amada, como és bela!”
+          <span class="ref">Cântico dos Cânticos 1,15</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto2.jpg">
+        <div class="verse">
+          “És toda formosa, minha amada, e em ti não há defeito.”
+          <span class="ref">Cântico dos Cânticos 4,7</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto3.jpg">
+        <div class="verse">
+          “O teu porte é como o da palmeira, e os teus seios como cachos.”
+          <span class="ref">Cântico dos Cânticos 7,8</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto4.jpg">
+        <div class="verse">
+          “A mulher graciosa alcança honra.”
+          <span class="ref">Provérbios 11,16</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto5.jpg">
+        <div class="verse">
+          “Enganosa é a graça e passageira a beleza,
+          mas a mulher que teme o Senhor será louvada.”
+          <span class="ref">Provérbios 31,30</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto6.jpg">
+        <div class="verse">
+          “A beleza da mulher alegra o rosto
+          e supera todo desejo humano.”
+          <span class="ref">Eclesiástico 36,22</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto7.jpg">
+        <div class="verse">
+          “Uma mulher virtuosa é a alegria do seu marido.”
+          <span class="ref">Eclesiástico 26,1</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto8.jpg">
+        <div class="verse">
+          “O encanto da mulher é a modéstia,
+          e nada é mais precioso que uma alma fiel.”
+          <span class="ref">Eclesiástico 26,15</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto9.jpg">
+        <div class="verse">
+          “Ele fez tudo belo ao seu tempo.”
+          <span class="ref">Eclesiastes 3,11</span>
+        </div>
+      </div>
+
+      <div class="photo-card">
+        <img src="foto10.jpg">
+        <div class="verse">
+          “Grava-me como um selo em teu coração,
+          porque o amor é forte como a morte.”
+          <span class="ref">Cântico dos Cânticos 8,6</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Oração final -->
+    <div class="prayer">
+      “Senhor Deus, obrigado pela vida da Michelle.
+      Abençoa os seus passos, guarda o seu coração,
+      ilumina os seus sonhos e envolve-a com a Tua paz.
+      Que nunca lhe falte amor, saúde e alegria,
+      e que eu saiba honrá-la, cuidá-la e amá-la
+      todos os dias da minha vida. Amém.”
+    </div>
+
+    <footer>
+      Com todo o meu amor, hoje e sempre ❤️
+    </footer>
+  </div>
+
+</body>
+</html>
